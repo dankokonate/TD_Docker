@@ -1,5 +1,4 @@
 
-
 class Personne:
     def __init__(self, nom, prenom, ssn):
         self.nom = nom
